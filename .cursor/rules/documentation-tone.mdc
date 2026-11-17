@@ -1,0 +1,65 @@
+---
+description: Professional tone and language for OpenVario documentation
+globs: docs/**/*.md,README.md,**/ug_openvario/**/*.tex,**/release_notes/**/*.md
+alwaysApply: false
+---
+
+# Documentation tone and language
+
+Write like a technical install / user manual for pilots and maintainers — not a
+blog, FAQ, or chat assistant.
+
+## Voice
+
+- Impersonal and direct. Prefer imperative instructions (“Connect the power
+  port…”) over second-person cheerleading (“You’ll want to…”, “Just plug in…”).
+- State facts, limits, and procedures. Do not narrate the reader’s intent
+  (“You have an OpenVario and want it in the glider”).
+- Prefer formal section titles: *Important notices*, *Prerequisites*,
+  *Contents*, *Installation sequence*, *Location*, *Tolerance* — not
+  *What people ask first*, *What to have ready*, *Suggested order*.
+- Warnings belong under **Important notices** or short imperative cautions —
+  not slang (“dead hardware”, “circus”, “smart”).
+
+## Structure
+
+- Lead with what the page covers, then notices, then procedure or tables.
+- Use numbered sequences for install steps; tables for dimensions, pinouts,
+  and checklists.
+- Cross-link related pages; do not duplicate long pinout or fuse tables.
+
+## Avoid
+
+```markdown
+<!-- BAD -->
+You have an OpenVario and want it in the glider. This guide answers what
+installers usually ask first…
+
+## What people ask first
+| Will it fit my panel? | …
+
+## Panel USB (do this)
+```
+
+```markdown
+<!-- GOOD -->
+This guide covers panel installation, electrical and pneumatic connections,
+peer-device wiring, firmware selection, and initial configuration.
+
+## Important notices
+- …
+
+## Prerequisites
+- …
+
+## Panel USB
+Extend one USB port to a panel or console jack…
+```
+
+## Do not
+
+- Cite or paraphrase competitor install manuals by name; do not copy their
+  wording.
+- Invent certifications, CB ratings, or weights that are not in project
+  sources.
+- Use emoji, marketing adjectives, or rhetorical questions as headings.
