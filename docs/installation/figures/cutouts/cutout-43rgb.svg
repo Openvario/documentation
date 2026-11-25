@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="170.5mm" height="130.5mm"
+     viewBox="-2 -2 174.5 134.5">
+  <title>4.3″ / 43rgb front cover</title>
+  <style>text{font-family:DejaVu Sans,Arial,sans-serif}</style>
+  <g transform="translate(22,22)">
+    <rect x="0" y="0" width="126.50" height="72.50" rx="11" ry="11" fill="#f7f7f7" stroke="#000" stroke-width="0.4"/><rect x="12.75" y="8.82" width="100.99" height="59.75" fill="#ddeeff" stroke="#06c" stroke-width="0.35" stroke-dasharray="1.5 0.8"/><text x="63.25" y="38.70" text-anchor="middle" font-size="3" fill="#06c">screen 101.0×59.8</text><circle cx="121.46" cy="13.99" r="1.34" fill="none" stroke="#000" stroke-width="0.35"/><circle cx="121.46" cy="13.99" r="0.3" fill="#000"/><circle cx="121.46" cy="58.49" r="1.34" fill="none" stroke="#000" stroke-width="0.35"/><circle cx="121.46" cy="58.49" r="0.3" fill="#000"/><circle cx="4.96" cy="58.49" r="1.34" fill="none" stroke="#000" stroke-width="0.35"/><circle cx="4.96" cy="58.49" r="0.3" fill="#000"/><circle cx="4.96" cy="13.24" r="1.34" fill="none" stroke="#000" stroke-width="0.35"/><circle cx="4.96" cy="13.24" r="0.3" fill="#000"/>
+    <g class="dim" stroke="#c00" fill="#c00" stroke-width="0.2">
+  <line x1="0" y1="-8" x2="126.5" y2="-8"/>
+  <line x1="0" y1="-9.2" x2="0" y2="-6.8"/>
+  <line x1="126.5" y1="-9.2" x2="126.5" y2="-6.8"/>
+  <text x="63.25" y="-9.5" text-anchor="middle" font-size="2.8" stroke="none">126.50</text>
+</g><g class="dim" stroke="#c00" fill="#c00" stroke-width="0.2">
+  <line x1="-8" y1="0" x2="-8" y2="72.5"/>
+  <line x1="-9.2" y1="0" x2="-6.8" y2="0"/>
+  <line x1="-9.2" y1="72.5" x2="-6.8" y2="72.5"/>
+  <text x="-9.8" y="36.25" text-anchor="middle" font-size="2.8" stroke="none"
+        transform="rotate(-90 -9.8 36.25)">72.50</text>
+</g><g class="dim" stroke="#c00" fill="#c00" stroke-width="0.2">
+  <line x1="12.754997253417969" y1="3.8249969482421875" x2="113.7449951171875" y2="3.8249969482421875"/>
+  <line x1="12.754997253417969" y1="2.6249969482421873" x2="12.754997253417969" y2="5.024996948242188"/>
+  <line x1="113.7449951171875" y1="2.6249969482421873" x2="113.7449951171875" y2="5.024996948242188"/>
+  <text x="63.249996185302734" y="2.3249969482421875" text-anchor="middle" font-size="2.8" stroke="none">101.0</text>
+</g><g class="dim" stroke="#c00" fill="#c00" stroke-width="0.2">
+  <line x1="118.7449951171875" y1="8.824996948242188" x2="118.7449951171875" y2="68.57499980926514"/>
+  <line x1="117.5449951171875" y1="8.824996948242188" x2="119.9449951171875" y2="8.824996948242188"/>
+  <line x1="117.5449951171875" y1="68.57499980926514" x2="119.9449951171875" y2="68.57499980926514"/>
+  <text x="116.9449951171875" y="38.69999837875366" text-anchor="middle" font-size="2.8" stroke="none"
+        transform="rotate(-90 116.9449951171875 38.69999837875366)">59.8</text>
+</g><text x="20" y="110.5" font-size="2.6" fill="#333">Bezel margins: L 12.8  R 12.8  B 3.9  T 8.8 mm</text><text x="20" y="114.5" font-size="2.6" fill="#333">Screws (origin bottom-left of outer): #1: (4.96, 14.01) Ø2.68 | #2: (121.46, 14.01) Ø2.68 | #3: (121.46, 58.51) Ø2.68 | #4: (4.96, 59.26) Ø2.68  pitch ≈ 116.50 × 45.25 mm</text><g class="dim" stroke="#c00" fill="#c00" stroke-width="0.2">
+  <line x1="0" y1="62.49293942541955" x2="4.96475849880207" y2="62.49293942541955"/>
+  <line x1="0" y1="61.29293942541955" x2="0" y2="63.69293942541955"/>
+  <line x1="4.96475849880207" y1="61.29293942541955" x2="4.96475849880207" y2="63.69293942541955"/>
+  <text x="2.482379249401035" y="60.99293942541955" text-anchor="middle" font-size="2.8" stroke="none">5.0</text>
+</g><g class="dim" stroke="#c00" fill="#c00" stroke-width="0.2">
+  <line x1="0.9647584988020697" y1="58.49293942541955" x2="0.9647584988020697" y2="72.5"/>
+  <line x1="-0.2352415011979303" y1="58.49293942541955" x2="2.16475849880207" y2="58.49293942541955"/>
+  <line x1="-0.2352415011979303" y1="72.5" x2="2.16475849880207" y2="72.5"/>
+  <text x="-0.8352415011979304" y="65.49646971270977" text-anchor="middle" font-size="2.8" stroke="none"
+        transform="rotate(-90 -0.8352415011979304 65.49646971270977)">14.0</text>
+</g>
+  </g>
+  <text x="22" y="10" font-size="3.2" font-weight="bold">4.3″ / 43rgb front cover</text>
+  <text x="22" y="122.5" font-size="2.4" fill="#444">Print at 100% / actual size (mm). Blue dashed = screen aperture. Circles = screw holes from STL slice.</text>
+  <text x="22" y="126.5" font-size="2.3" fill="#444">Source: variants/43rgb/Frontcover.stl. Rounded outer; screen aperture + 4 screws. Corner R≈11 mm.</text>
+</svg>
